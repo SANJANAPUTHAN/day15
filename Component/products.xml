@@ -1,0 +1,17 @@
+<!DOCTYPE product SYSTEM "products.dtd">
+<product>
+<item>
+	<item_id>101</item_id>
+	<item_name>soap</item_name>
+	<quantity>30</quantity>
+	<price>90</price>
+	<brand>pears</brand>
+</item>
+<item>
+	<item_id>102</item_id>
+	<item_name>shampoo</item_name>
+	<quantity>40</quantity>
+	<price>100</price>
+	<brand>sunsilk</brand>
+</item>
+</product>

@@ -1,0 +1,7 @@
+<!ELEMENT product (item+)>
+<!ELEMENT item (item_id+,item_name+,quantity*,price?,brand+)>
+<!ELEMENT item_id (#PCDATA)>
+<!ELEMENT item_name (#PCDATA)>
+<!ELEMENT quantity (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT brand (#PCDATA)>
